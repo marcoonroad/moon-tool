@@ -1,4 +1,4 @@
-#!/usr/bin/env node --harmony-tailcalls
+#!/usr/bin/env node
 
 var fs = require("fs");
 var util = require("util");
